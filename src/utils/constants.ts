@@ -1,0 +1,1 @@
+export const URL_EXPIRATION = 60 // 1 hour
